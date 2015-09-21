@@ -6,6 +6,9 @@
  * Written by Martin Kool
  * martin@q42.nl | @mrtnkl
  */
+/*
+ * b1
+ */
 var Game = new (function() {
   var self = this,
       debug = document.location.hash == '#debug',
